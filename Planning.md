@@ -1,6 +1,11 @@
 Stage 1
-[] get the form and attach an event listiener to form
-[] get the task from the input
-[] diplay the list
+[x] get the form and attach an event listiener to form
+[x] get the task from the input
+[x] diplay the list
 
+Stage 2
+[x] add a delete button to each item on list
+
+
+Stage 3
 
