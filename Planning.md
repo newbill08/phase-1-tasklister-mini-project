@@ -10,3 +10,6 @@ Stage 2
 Stage 3
 [x]select a priority level for task before submitting
 [x] Chane color of task accoring to the priority level
+
+Stage 4 
+[] allo the user to sort the prioriteds in both direction
